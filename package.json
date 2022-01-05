@@ -1,0 +1,14 @@
+{
+  "name": "simplecommerce",
+  "version": "1.0.0",
+  "description": "a simple ecommerce platform based on the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Tyler Cook",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
